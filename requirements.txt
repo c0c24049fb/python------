@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+matplotlib_fontja
+plotly
+yfinance
+streamlit
+pillow
